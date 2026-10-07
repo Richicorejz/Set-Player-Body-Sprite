@@ -4,6 +4,7 @@ A lightweight ReAPI-based plugin that attaches an animated sprite to any point o
 ## Features
 
 - Per-player animated sprite that follows the player automatically (origin synced at 0.02 s)
+- Each sprite has its own coordinates: an independent vertical offset per sprite, set individually for every layer
 - Flexible vertical placement: any offset from the player origin — head, body, feet
 - Frame count and framerate are taken from the model automatically — one full cycle always takes ~1 second
 - Two play modes: loop for a given duration, or play once and auto-remove
