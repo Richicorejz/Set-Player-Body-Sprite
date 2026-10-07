@@ -50,3 +50,5 @@ zh_set_user_sprite(id, "sprites/mymod/body_aura.spr", 0.6, 0.0, 0.0, "env_sprite
 
 - AMX Mod X 1.9 or newer;
 - ReAPI Module.
+
+https://www.youtube.com/watch?v=tnWDWVAusH4
